@@ -18,6 +18,9 @@ Please download and extract the dataset into the data_dir as specified in the sc
 To run this project, you need to have Python installed along with the following libraries:
 
 OpenCV
+
 NumPy
+
 Pandas
+
 Scikit-learn
